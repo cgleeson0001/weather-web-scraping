@@ -1,0 +1,58 @@
+Local Time and Weather Around the World
+Sort By:
+City
+Country
+Time
+Temperature
+Cities Shown:
+Capitals (215)
+Most Popular (143)
+Popular (358)
+Somewhat Popular (472)
+Accra Tue 4:51 am 77 °F Edmonton * Mon 10:51 pm 45 °F Nassau * Tue 12:51 am 84 °F
+Addis Ababa Tue 7:51 am 59 °F Frankfurt * Tue 6:51 am 57 °F New Delhi Tue 10:21 am 84 °F
+Adelaide Tue 2:21 pm 63 °F Guatemala City Mon 10:51 pm 68 °F New Orleans * Mon 11:51 pm 84 °F
+Algiers Tue 5:51 am 77 °F Halifax * Tue 1:51 am 55 °F New York * Tue 12:51 am 64 °F
+Almaty Tue 9:51 am 79 °F Hanoi Tue 11:51 am 81 °F Oslo * Tue 6:51 am 54 °F
+Amman Tue 7:51 am 70 °F Harare Tue 6:51 am 55 °F Ottawa * Tue 12:51 am 48 °F
+Amsterdam * Tue 6:51 am 64 °F Havana * Tue 12:51 am 77 °F Paris * Tue 6:51 am 64 °F
+Anadyr Tue 4:51 pm 34 °F Helsinki * Tue 7:51 am 37 °F Perth Tue 12:51 pm 75 °F
+Anchorage * Mon 8:51 pm 56 °F Hong Kong Tue 12:51 pm 84 °F Philadelphia * Tue 12:51 am 64 °F
+Ankara Tue 7:51 am 48 °F Honolulu Mon 6:51 pm 83 °F Phoenix Mon 9:51 pm 88 °F
+Antananarivo Tue 7:51 am 57 °F Houston * Mon 11:51 pm 83 °F Prague * Tue 6:51 am 52 °F
+Asuncion Tue 1:51 am 63 °F Indianapolis * Tue 12:51 am 68 °F Reykjavik Tue 4:51 am 39 °F
+Athens * Tue 7:51 am 76 °F Islamabad Tue 9:51 am 70 °F Rio de Janeiro Tue 1:51 am 68 °F
+Atlanta * Tue 12:51 am 75 °F Istanbul Tue 7:51 am 64 °F Riyadh Tue 7:51 am 86 °F
+Auckland Tue 4:51 pm 59 °F Jakarta Tue 11:51 am 91 °F Rome * Tue 6:51 am 68 °F
+Baghdad Tue 7:51 am 75 °F Jerusalem * Tue 7:51 am 70 °F Salt Lake City * Mon 10:51 pm 64 °F
+Bangkok Tue 11:51 am 84 °F Johannesburg Tue 6:51 am 54 °F San Francisco * Mon 9:51 pm 61 °F
+Barcelona * Tue 6:51 am 72 °F Karachi Tue 9:51 am 88 °F San Juan Tue 12:51 am 83 °F
+Beijing Tue 12:51 pm 79 °F Kathmandu Tue 10:36 am 77 °F San Salvador Mon 10:51 pm 77 °F
+Belgrade * Tue 6:51 am 63 °F Kingston Mon 11:51 pm 84 °F Santiago * Tue 1:51 am 54 °F
+Bengaluru Tue 10:21 am 82 °F Kinshasa Tue 5:51 am 75 °F Santo Domingo Tue 12:51 am 79 °F
+Berlin * Tue 6:51 am 46 °F Kiritimati Tue 6:51 pm 86 °F São Paulo Tue 1:51 am 57 °F
+Bogota Mon 11:51 pm 54 °F Kolkata Tue 10:21 am 91 °F Seattle * Mon 9:51 pm 61 °F
+Boston * Tue 12:51 am 60 °F Kuala Lumpur Tue 12:51 pm 91 °F Seoul Tue 1:51 pm 79 °F
+Brasilia Tue 1:51 am 73 °F Kuwait City Tue 7:51 am 77 °F Shanghai Tue 12:51 pm 86 °F
+Brisbane Tue 2:51 pm 77 °F Kyiv * Tue 7:51 am 55 °F Singapore Tue 12:51 pm 90 °F
+Brussels * Tue 6:51 am 61 °F La Paz Tue 12:51 am 51 °F Sofia * Tue 7:51 am 55 °F
+Bucharest * Tue 7:51 am 54 °F Lagos Tue 5:51 am 77 °F St. John's * Tue 2:21 am 63 °F
+Budapest * Tue 6:51 am 52 °F Lahore Tue 9:51 am 86 °F Stockholm * Tue 6:51 am 59 °F
+Buenos Aires Tue 1:51 am 54 °F Las Vegas * Mon 9:51 pm 92 °F Suva Tue 4:51 pm 76 °F
+Cairo * Tue 7:51 am 75 °F Lima Mon 11:51 pm 69 °F Sydney Tue 2:51 pm 70 °F
+Calgary * Mon 10:51 pm 50 °F Lisbon * Tue 5:51 am 66 °F Taipei Tue 12:51 pm 82 °F
+Canberra Tue 2:51 pm 64 °F London * Tue 5:51 am 63 °F Tallinn * Tue 7:51 am 43 °F
+Cape Town Tue 6:51 am 57 °F Los Angeles * Mon 9:51 pm 72 °F Tashkent Tue 9:51 am 64 °F
+Caracas Tue 12:51 am 79 °F Madrid * Tue 6:51 am 68 °F Tegucigalpa Mon 10:51 pm 72 °F
+Casablanca * Tue 5:51 am 73 °F Managua Mon 10:51 pm 77 °F Tehran Tue 8:21 am 79 °F
+Chicago * Mon 11:51 pm 68 °F Manila Tue 12:51 pm 84 °F Tokyo Tue 1:51 pm 81 °F
+Copenhagen * Tue 6:51 am 57 °F Melbourne Tue 2:51 pm 54 °F Toronto * Tue 12:51 am 59 °F
+Dallas * Mon 11:51 pm 91 °F Mexico City Mon 10:51 pm 61 °F Vancouver * Mon 9:51 pm 61 °F
+Dar es Salaam Tue 7:51 am 75 °F Miami * Tue 12:51 am 83 °F Vienna * Tue 6:51 am 52 °F
+Darwin Tue 2:21 pm 91 °F Minneapolis * Mon 11:51 pm 59 °F Warsaw * Tue 6:51 am 55 °F
+Denver * Mon 10:51 pm 73 °F Minsk Tue 7:51 am 55 °F Washington DC * Tue 12:51 am 67 °F
+Detroit * Tue 12:51 am 62 °F Montevideo Tue 1:51 am 45 °F Winnipeg * Mon 11:51 pm 56 °F
+Dhaka Tue 10:51 am 91 °F Montréal * Tue 12:51 am 50 °F Yangon Tue 11:21 am 84 °F
+Doha Tue 7:51 am 93 °F Moscow Tue 7:51 am 53 °F Zagreb * Tue 6:51 am 55 °F
+Dubai Tue 8:51 am 93 °F Mumbai Tue 10:21 am 82 °F Zürich * Tue 6:51 am 52 °F
+Dublin * Tue 5:51 am 55 °F Nairobi Tue 7:51 am 61 °F
