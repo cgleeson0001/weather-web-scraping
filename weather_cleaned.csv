@@ -1,0 +1,141 @@
+City,Day,Local Time,Temperature_F
+Accra,Tue,4:51 am,77
+Edmonton,Mon,10:51 pm,45
+Nassau,Tue,12:51 am,84
+Addis Ababa,Tue,7:51 am,59
+Frankfurt,Tue,6:51 am,57
+New Delhi,Tue,10:21 am,84
+Adelaide,Tue,2:21 pm,63
+Guatemala City,Mon,10:51 pm,68
+New Orleans,Mon,11:51 pm,84
+Algiers,Tue,5:51 am,77
+Halifax,Tue,1:51 am,55
+New York,Tue,12:51 am,64
+Almaty,Tue,9:51 am,79
+Hanoi,Tue,11:51 am,81
+Oslo,Tue,6:51 am,54
+Amman,Tue,7:51 am,70
+Harare,Tue,6:51 am,55
+Ottawa,Tue,12:51 am,48
+Amsterdam,Tue,6:51 am,64
+Havana,Tue,12:51 am,77
+Paris,Tue,6:51 am,64
+Anadyr,Tue,4:51 pm,34
+Helsinki,Tue,7:51 am,37
+Perth,Tue,12:51 pm,75
+Anchorage,Mon,8:51 pm,56
+Hong Kong,Tue,12:51 pm,84
+Philadelphia,Tue,12:51 am,64
+Ankara,Tue,7:51 am,48
+Honolulu,Mon,6:51 pm,83
+Phoenix,Mon,9:51 pm,88
+Antananarivo,Tue,7:51 am,57
+Houston,Mon,11:51 pm,83
+Prague,Tue,6:51 am,52
+Asuncion,Tue,1:51 am,63
+Indianapolis,Tue,12:51 am,68
+Reykjavik,Tue,4:51 am,39
+Athens,Tue,7:51 am,76
+Islamabad,Tue,9:51 am,70
+Rio de Janeiro,Tue,1:51 am,68
+Atlanta,Tue,12:51 am,75
+Istanbul,Tue,7:51 am,64
+Riyadh,Tue,7:51 am,86
+Auckland,Tue,4:51 pm,59
+Jakarta,Tue,11:51 am,91
+Rome,Tue,6:51 am,68
+Baghdad,Tue,7:51 am,75
+Jerusalem,Tue,7:51 am,70
+Salt Lake City,Mon,10:51 pm,64
+Bangkok,Tue,11:51 am,84
+Johannesburg,Tue,6:51 am,54
+San Francisco,Mon,9:51 pm,61
+Barcelona,Tue,6:51 am,72
+Karachi,Tue,9:51 am,88
+San Juan,Tue,12:51 am,83
+Beijing,Tue,12:51 pm,79
+Kathmandu,Tue,10:36 am,77
+San Salvador,Mon,10:51 pm,77
+Belgrade,Tue,6:51 am,63
+Kingston,Mon,11:51 pm,84
+Santiago,Tue,1:51 am,54
+Bengaluru,Tue,10:21 am,82
+Kinshasa,Tue,5:51 am,75
+Santo Domingo,Tue,12:51 am,79
+Berlin,Tue,6:51 am,46
+Kiritimati,Tue,6:51 pm,86
+São Paulo,Tue,1:51 am,57
+Bogota,Mon,11:51 pm,54
+Kolkata,Tue,10:21 am,91
+Seattle,Mon,9:51 pm,61
+Boston,Tue,12:51 am,60
+Kuala Lumpur,Tue,12:51 pm,91
+Seoul,Tue,1:51 pm,79
+Brasilia,Tue,1:51 am,73
+Kuwait City,Tue,7:51 am,77
+Shanghai,Tue,12:51 pm,86
+Brisbane,Tue,2:51 pm,77
+Kyiv,Tue,7:51 am,55
+Singapore,Tue,12:51 pm,90
+Brussels,Tue,6:51 am,61
+La Paz,Tue,12:51 am,51
+Sofia,Tue,7:51 am,55
+Bucharest,Tue,7:51 am,54
+Lagos,Tue,5:51 am,77
+St. John's,Tue,2:21 am,63
+Budapest,Tue,6:51 am,52
+Lahore,Tue,9:51 am,86
+Stockholm,Tue,6:51 am,59
+Buenos Aires,Tue,1:51 am,54
+Las Vegas,Mon,9:51 pm,92
+Suva,Tue,4:51 pm,76
+Cairo,Tue,7:51 am,75
+Lima,Mon,11:51 pm,69
+Sydney,Tue,2:51 pm,70
+Calgary,Mon,10:51 pm,50
+Lisbon,Tue,5:51 am,66
+Taipei,Tue,12:51 pm,82
+Canberra,Tue,2:51 pm,64
+London,Tue,5:51 am,63
+Tallinn,Tue,7:51 am,43
+Cape Town,Tue,6:51 am,57
+Los Angeles,Mon,9:51 pm,72
+Tashkent,Tue,9:51 am,64
+Caracas,Tue,12:51 am,79
+Madrid,Tue,6:51 am,68
+Tegucigalpa,Mon,10:51 pm,72
+Casablanca,Tue,5:51 am,73
+Managua,Mon,10:51 pm,77
+Tehran,Tue,8:21 am,79
+Chicago,Mon,11:51 pm,68
+Manila,Tue,12:51 pm,84
+Tokyo,Tue,1:51 pm,81
+Copenhagen,Tue,6:51 am,57
+Melbourne,Tue,2:51 pm,54
+Toronto,Tue,12:51 am,59
+Dallas,Mon,11:51 pm,91
+Mexico City,Mon,10:51 pm,61
+Vancouver,Mon,9:51 pm,61
+Dar es Salaam,Tue,7:51 am,75
+Miami,Tue,12:51 am,83
+Vienna,Tue,6:51 am,52
+Darwin,Tue,2:21 pm,91
+Minneapolis,Mon,11:51 pm,59
+Warsaw,Tue,6:51 am,55
+Denver,Mon,10:51 pm,73
+Minsk,Tue,7:51 am,55
+Washington DC,Tue,12:51 am,67
+Detroit,Tue,12:51 am,62
+Montevideo,Tue,1:51 am,45
+Winnipeg,Mon,11:51 pm,56
+Dhaka,Tue,10:51 am,91
+Montréal,Tue,12:51 am,50
+Yangon,Tue,11:21 am,84
+Doha,Tue,7:51 am,93
+Moscow,Tue,7:51 am,53
+Zagreb,Tue,6:51 am,55
+Dubai,Tue,8:51 am,93
+Mumbai,Tue,10:21 am,82
+Zürich,Tue,6:51 am,52
+Dublin,Tue,5:51 am,55
+Nairobi,Tue,7:51 am,61
